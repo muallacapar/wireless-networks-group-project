@@ -8,10 +8,10 @@
 **Grup:** 1  
 
 **Grup Üyeleri:**
-- Fatma Nur Yazıcı  
-- Elif Nur Beycan  
-- Nermin Baycan  
-- Mualla Gülsüm Çapar  
+- Fatma Nur Yazıcı  22360859052    
+- Elif Nur Beycan  24360859210  
+- Nermin Baycan  21360859019  
+- Mualla Gülsüm Çapar  22360859039  
 
 ---
 
