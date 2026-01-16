@@ -9,7 +9,7 @@
 
 **Grup Üyeleri:**
 - Fatma Nur Yazıcı  
-- Elif Nur Beycan 24360859210  
+- Elif Nur Beycan  
 - Nermin Baycan  
 - Mualla Gülsüm Çapar  
 
